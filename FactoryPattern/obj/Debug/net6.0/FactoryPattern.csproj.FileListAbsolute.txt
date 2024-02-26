@@ -1,0 +1,14 @@
+/Users/ak47/Desktop/Repos_folder/Factory-Pattern/FactoryPattern/obj/Debug/net6.0/FactoryPattern.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ak47/Desktop/Repos_folder/Factory-Pattern/FactoryPattern/obj/Debug/net6.0/FactoryPattern.AssemblyInfoInputs.cache
+/Users/ak47/Desktop/Repos_folder/Factory-Pattern/FactoryPattern/obj/Debug/net6.0/FactoryPattern.AssemblyInfo.cs
+/Users/ak47/Desktop/Repos_folder/Factory-Pattern/FactoryPattern/obj/Debug/net6.0/FactoryPattern.csproj.CoreCompileInputs.cache
+/Users/ak47/Desktop/Repos_folder/Factory-Pattern/FactoryPattern/bin/Debug/net6.0/FactoryPattern
+/Users/ak47/Desktop/Repos_folder/Factory-Pattern/FactoryPattern/bin/Debug/net6.0/FactoryPattern.deps.json
+/Users/ak47/Desktop/Repos_folder/Factory-Pattern/FactoryPattern/bin/Debug/net6.0/FactoryPattern.runtimeconfig.json
+/Users/ak47/Desktop/Repos_folder/Factory-Pattern/FactoryPattern/bin/Debug/net6.0/FactoryPattern.dll
+/Users/ak47/Desktop/Repos_folder/Factory-Pattern/FactoryPattern/bin/Debug/net6.0/FactoryPattern.pdb
+/Users/ak47/Desktop/Repos_folder/Factory-Pattern/FactoryPattern/obj/Debug/net6.0/FactoryPattern.dll
+/Users/ak47/Desktop/Repos_folder/Factory-Pattern/FactoryPattern/obj/Debug/net6.0/refint/FactoryPattern.dll
+/Users/ak47/Desktop/Repos_folder/Factory-Pattern/FactoryPattern/obj/Debug/net6.0/FactoryPattern.pdb
+/Users/ak47/Desktop/Repos_folder/Factory-Pattern/FactoryPattern/obj/Debug/net6.0/FactoryPattern.genruntimeconfig.cache
+/Users/ak47/Desktop/Repos_folder/Factory-Pattern/FactoryPattern/obj/Debug/net6.0/ref/FactoryPattern.dll

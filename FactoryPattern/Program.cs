@@ -1,10 +1,23 @@
-﻿namespace FactoryPattern
+﻿using System;
+using System.Data.SqlTypes;
+
+namespace FactoryPatternApp
 {
-    public class Program
+    class Program
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello, World!");
+            Console.WriteLine("What kind of phone do you want to create?");
+            string userPhone = Console.ReadLine();
+
+            
+            ICallable phone = PhoneFactory.GetPhone(userPhone);
+            phone.Build();
+            Console.ReadLine();
+
+
+
+           
         }
     }
 }
